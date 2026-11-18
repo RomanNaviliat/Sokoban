@@ -69,7 +69,3 @@ src/
     ├── vista/               VentanaPrincipal, PanelMenu, PanelJuego, PanelHud, PanelTablero, diálogos
     ├── sonido/              GestorDeSonido
     └── modelo/
-        ├── Juego, Partida, Tablero, MapaNivel, EstadoTablero, Perfil, Tienda, Jugador, ...
-        ├── cajas/  suelos/  paredes/  creadores/
-        ├── dificultad/  puntaje/  skins/  timba/  guardado/
-```
